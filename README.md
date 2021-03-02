@@ -1,5 +1,5 @@
-# Зробити html сторінку - статтю у вільній формі (приклад вікі https://ru.wikipedia.org/wiki/%D0%95%D0%BD%D0%BE%D1%82-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D1%83%D0%BD) .).
-# вимоги:
-# Всі теги заголовків повинні бути логічно розставлені.
-# У тексті повинні бути посилання і якірні посилання.
-# Текст повинен містити списки, таблиці, абзаци, заголовки різних рівнів, виділення жирним, курсивом
+# Create html page like Wikipedia.
+# Requirements:
+# 1. Logical arrangement of tags.
+# 2. The text should contain links and anchor links.
+# The text must contain lists, table, heading of differend levels, bold and italic text.
