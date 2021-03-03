@@ -2,7 +2,6 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Малыш Йода</title>
     </head>
     <body>
         <h1>Малыш Йода</h1>
